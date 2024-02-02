@@ -1,0 +1,14 @@
+#Python-Chaches
+__pycache__
+_
+
+# PyTest
+.pytest_cache
+
+# Visual Studio Code
+.vscode
+
+# PyCharm
+.idea
+.env
+
