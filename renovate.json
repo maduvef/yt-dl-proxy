@@ -1,0 +1,10 @@
+{
+    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+    "platformAutomerge": true,
+    "packageRules": [
+        {
+            "matchPackagePatterns": ["*"],
+            "automerge": true
+        }
+    ]
+}
