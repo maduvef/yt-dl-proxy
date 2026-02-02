@@ -1,4 +1,4 @@
-from python:3.15.0a5-alpine@sha256:f77a9303949324561403f4be60dca95b3c7e42f7e5510e78aa5564da3104d6e2
+from python:3.15.0a5-alpine@sha256:998bc0bdc3da726d5e4446e8e1497c64020a7c2de6b849170de375af5fac87c6
 
 COPY ./proxy.py ./requirements.txt /yt-dl-proxy/
 WORKDIR /yt-dl-proxy
